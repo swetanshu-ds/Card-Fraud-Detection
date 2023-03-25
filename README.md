@@ -7,3 +7,5 @@
 
  - Run the requirements.txt file
  - pip install -r requirements.txt
+
+ - Read the documentation folder -creditCardDefaulters.docx 
